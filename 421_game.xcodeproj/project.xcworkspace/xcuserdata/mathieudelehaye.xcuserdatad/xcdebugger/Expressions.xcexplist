@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.rollOpponentDices():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "playerScore">
+            </PersistentString>
+            <PersistentString
+               value = "opponentDice3Value">
+            </PersistentString>
+            <PersistentString
+               value = "opponentDice1Value">
+            </PersistentString>
+            <PersistentString
+               value = "opponentDice2Value">
+            </PersistentString>
+            <PersistentString
+               value = "opponentScore">
+            </PersistentString>
+            <PersistentString
+               value = "dice2Value">
+            </PersistentString>
+            <PersistentString
+               value = "dice3Value">
+            </PersistentString>
+            <PersistentString
+               value = "remainingTryLabel.text">
+            </PersistentString>
+            <PersistentString
+               value = "dice1Value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.acceptButtonPressed(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "remainingTryLabel.text ">
+            </PersistentString>
+            <PersistentString
+               value = "remainingTries">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
